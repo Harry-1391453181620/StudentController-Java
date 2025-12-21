@@ -1,5 +1,4 @@
 import controller.StudentGUIController;
-import model.Student;
 import view.StudentGUI;
 
 import javax.swing.*;
