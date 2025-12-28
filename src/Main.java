@@ -15,6 +15,5 @@ void main() {
 
     StudentGUI gui = new StudentGUI();
     new StudentGUIController(gui);
-    //TODO: push this edited file to git.
 }
 
